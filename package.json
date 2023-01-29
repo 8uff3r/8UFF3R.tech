@@ -10,6 +10,7 @@
     "start": "vite preview --host"
   },
   "dependencies": {
+    "@tailwindcss/line-clamp": "^0.4.2",
     "motion": "^10.15.5",
     "rippleui": "^1.6.0",
     "sass": "^1.57.1",

@@ -1,10 +1,10 @@
 <template>
-  <Particles
-    class="hidden lg:flex"
-    id="tsparticles"
-    :particlesInit="particlesInit"
-    :options="particlesOptions"
-  />
+  <!-- <Particles -->
+  <!--   class="hidden lg:flex" -->
+  <!--   id="tsparticles" -->
+  <!--   :particlesInit="particlesInit" -->
+  <!--   :options="particlesOptions" -->
+  <!-- /> -->
   <router-view />
 </template>
 
